@@ -3,5 +3,3 @@ Testing adding text to file
 Your revert was successful as well as your commit.
 
 When you are working on code in your branch, be sure to only commit versions that are working currently, and commit often. You'll find that if you hit a messy spot of code, you'll be able to revert with minimal loss to your work. If you commit buggy code, you risk having to build off of it (and it being a mess) as well as risk losing it (if you cannot build, and must revert). Basically, if you still need to work on a particular iteration of your work, you can right click on the repository (with your branch selected) and open in explorer to continue where you left off, without needing to commit.
-
-Also, we need Charlotte to post a commit/change of some kind so we know she's hooked up.
